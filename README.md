@@ -17,27 +17,6 @@ This repository hosts additionnal parsers and import features for bank statement
 
 [//]: # (addons)
 
-Available addons
-----------------
-addon | version | maintainers | summary
---- | --- | --- | ---
-[account_statement_import_base](account_statement_import_base/) |  |  | Base module for Bank Statement Import
-[account_statement_import_camt](account_statement_import_camt/) |  |  | CAMT Format Bank Statements Import
-[account_statement_import_camt54](account_statement_import_camt54/) |  |  | Bank Account Camt54 Import
-[account_statement_import_file](account_statement_import_file/) |  | [ | Import Statement Files
-[account_statement_import_file_reconcile_oca](account_statement_import_file_reconcile_oca/) |  |  | Import Statement Files and Go Direct to Reconciliation
-[account_statement_import_ofx](account_statement_import_ofx/) |  |  | Import OFX Bank Statement
-[account_statement_import_online](account_statement_import_online/) |  |  | Online bank statements update
-[account_statement_import_online_gocardless](account_statement_import_online_gocardless/) |  |  | Online Bank Statements: GoCardless
-[account_statement_import_online_ofx](account_statement_import_online_ofx/) |  |  | Online bank statements for OFX
-[account_statement_import_online_paypal](account_statement_import_online_paypal/) |  |  | Online bank statements for PayPal.com
-[account_statement_import_online_ponto](account_statement_import_online_ponto/) |  |  | Online Bank Statements: MyPonto.com
-[account_statement_import_online_qonto](account_statement_import_online_qonto/) |  |  | Online Bank Statements: Qonto
-[account_statement_import_qif](account_statement_import_qif/) |  |  | Import QIF Bank Statements
-[account_statement_import_sheet_file](account_statement_import_sheet_file/) |  |  | Import TXT/CSV or XLSX files as Bank Statements in curl
-
-[//]: # (end addons)
-
 <!-- prettier-ignore-end -->
 
 
